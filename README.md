@@ -7,4 +7,4 @@
 # Soal 1
 ![screenshot](assets/images/stream2.jpg)
 # Soal 4
-![rekamlayar](assets/images/rekamlayar.mp4)
+![rekamlayar](assets/images/rekamlayar.gif)
