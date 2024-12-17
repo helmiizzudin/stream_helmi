@@ -5,4 +5,4 @@
 # Kelas: 2DTRPL
 
 # Soal 1
-!(screenshot)[assets/images/stream2.jpg]
+![screenshot](assets/images/stream2.jpg)
