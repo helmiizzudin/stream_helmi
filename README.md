@@ -5,6 +5,6 @@
 # Kelas: 2DTRPL
 
 # Soal 1
-![screenshot](asets/images/stream2.jpg)
+![screenshot](assets/images/stream2.jpg)
 # Soal 4
 ![rekamlayar](assets/images/rekamlayar.mp4)
